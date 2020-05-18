@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WarehouseApp</string>
+    <string name="logo">Warehouse managment</string>
+    <string name="warstate">Warehouse State</string>
+    <string name="productlist">Product List</string>
+    <string name="addproduct">ADD PRODUCT</string>
+    <string name="productlistcheck">CHECK PRODUCT LIST</string>
+
+</resources>

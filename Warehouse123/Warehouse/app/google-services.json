@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224767594690",
+    "firebase_url": "https://warehouse2020-73c27.firebaseio.com",
+    "project_id": "warehouse2020-73c27",
+    "storage_bucket": "warehouse2020-73c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224767594690:android:fada51be9cdd9dd83d6b5b",
+        "android_client_info": {
+          "package_name": "com.example.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224767594690-6ta3g6g5pt0jh5tlqr0laqae3nsq6ub5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTw2WBaeEo2NYry55RTQvzTKTcCAv0fy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224767594690-6ta3g6g5pt0jh5tlqr0laqae3nsq6ub5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
